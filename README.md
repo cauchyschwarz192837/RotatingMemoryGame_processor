@@ -1,4 +1,5 @@
-ECE 350: Digital Systems (Spring 2025), Final Project: Rotating Memory Game
+# ECE 350: Digital Systems (Spring 2025), Final Project: Rotating Memory Game
+## FPGA Design Project
 
 Short video demo:
 
